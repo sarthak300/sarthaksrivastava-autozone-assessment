@@ -1,0 +1,53 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.main_page {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.planet_label {
+    font-weight: 700;
+}
+
+.people_list {
+    margin-top: 3rem;
+}
+
+.planets-dropdown {
+    border: 1px solid #c4c4c4;
+    border-radius: 9px;
+    width: 13rem;
+    height: 2rem;
+    margin: 1rem;
+    font-style: italic;
+}
+
+.paginattion {
+    font-size: 12px;
+    margin: 10px;
+}
+
+.pagination-align {
+    margin-left: 7rem;
+}
+
+.err-msg {
+    color: red;
+}
+
+.loader {
+    font-size: 13px;
+    font-style: italic;
+}
